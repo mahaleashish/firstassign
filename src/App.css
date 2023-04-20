@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+#reactphoto{
+  height:150px;
+  width:150px;
+}
